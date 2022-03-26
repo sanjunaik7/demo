@@ -1,4 +1,4 @@
 # Demo app
 
 
-Please start coding...
+Coding started
